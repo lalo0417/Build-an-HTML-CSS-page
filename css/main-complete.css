@@ -75,7 +75,6 @@ nav ul {
   border-right: 0;
   border-left: 0;
   height: fixed;
-    width : fixed;
   padding: 5px 0px 35px 65px;
 }
 
@@ -86,7 +85,7 @@ nav li {
 }
 
 #wrapper {
-  
+  width: 900px;
 }
 
 #masthead {
