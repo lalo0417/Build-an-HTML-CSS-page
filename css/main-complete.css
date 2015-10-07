@@ -43,14 +43,14 @@ h1 {
 }
 
 h3 {
-  color: #d4d4d4;
-  font-size: 32px;
+  color: #eee;
+  font-size: 40px;
   padding: 50px 15px 30px 30px;
 }
 
 p {
   color: #d4d4d4;
-  font-size: 24px;
+  font-size: 28px;
   padding: 0px 20px 50px 10px;
   margin: 20px 10px -10px 20px;
     
@@ -61,7 +61,7 @@ nav a:link,
 nav a:visited {
   color: gold;
   text-decoration: none;
-  font-size: 23px;
+  font-size: 24px;
 } 
 
 
@@ -75,7 +75,7 @@ nav ul {
   border-right: 0;
   border-left: 0;
   height: fixed;
-  padding: 5px 0px 35px 65px;
+  padding: 10px 0px 40px 40px;
 }
 
 nav li {
